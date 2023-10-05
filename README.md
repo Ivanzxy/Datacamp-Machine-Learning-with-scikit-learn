@@ -7,4 +7,4 @@ Course link: https://app.datacamp.com/learn/courses/machine-learning-with-scikit
 [1_Classification.ipynb](1_Classification.ipynb)
 ## 2. Regression
 ## 3. Fine-tuning your model
-## 4. Fine-tuning your model
+## 4. Preprocessing and pipelines
